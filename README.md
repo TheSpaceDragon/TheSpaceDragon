@@ -17,7 +17,7 @@ Motorsports 🏎️ &nbsp;  | Badminton 🏸 | &nbsp; Cricket 🏏 | &nbsp; Biki
     
   | [Boredom Relief](https://github.com/RaghavVerma24/Boredom-App) |
   | :---   |
-  | A website provides that a place where people can get access to random funny YouTube videos and games to help relieve stress caused by the pandemic.|
+  | A website that provides a place where people can get access to random funny YouTube videos and games to help relieve stress caused by the pandemic.|
   
   | [Alarm for any door](https://github.com/TheSpaceDragon/alarm_for_any_door) |
   | :---   |
