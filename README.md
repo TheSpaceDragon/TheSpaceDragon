@@ -11,7 +11,13 @@ Motorsports 🏎️ &nbsp;  | Badminton 🏸 | &nbsp; Cricket 🏏 | &nbsp; Biki
 ## 📗 Projects
   | [Covoid](https://github.com/TheSpaceDragon/CovoidPlatformer) |
   | :--- |
-  | Covoid is a platformer game that teaches players the importance of PPE, and staying away from viruses to protect your health in a challenging yet fun way! |
+  | Covoid is a platformer game that teaches players the importance of PPE, and staying away from viruses to protect your health in a challenging yet fun way! 
+  **Won 1st place prize from Ekal Appathon and $500 Amazon gift card.**|
+  
+    
+  | [Boredom Relief](https://github.com/RaghavVerma24/Boredom-App) |
+  | :---   |
+  | A website provides that a place where people can get access to random funny YouTube videos and games to help relieve stress caused by the pandemic.|
   
   | [Alarm for any door](https://github.com/TheSpaceDragon/alarm_for_any_door) |
   | :---   |
