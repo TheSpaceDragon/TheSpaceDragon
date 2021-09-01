@@ -1,6 +1,8 @@
 # 👋 Hi there! Welcome to my Github page!
 
 - 🌱 I’m currently learning C++
+- <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width=20 align=center> Connect with me on [Linkedin](www.linkedin.com/in/gagan-deep-singh-9021)!
+
 - 😄 Pronouns: He/Him
 
 ## 🏎 Interests
@@ -24,14 +26,14 @@ Motorsports 🏎️ &nbsp;  | Badminton 🏸 | &nbsp; Cricket 🏏 | &nbsp; Biki
 
 
 ## 💻 Languages and Technologies
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width=38 align=center> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width=38 align=center> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=38 align=center> &nbsp;
-<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width=38 align=center> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width=38 align=center> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png" width=38 align=center> &nbsp;
-<img src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png" width=38 align=center> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1024px-Visual_Studio_2017_Logo.svg.png" width=38 align=center> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width=40 align=center> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width=40 align=center> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=40 align=center> &nbsp;
+<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width=40 align=center> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width=40 align=center> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png" width=40 align=center> &nbsp;
+<img src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png" width=40 align=center> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1024px-Visual_Studio_2017_Logo.svg.png" width=40 align=center> &nbsp;
 
 
 
