@@ -15,14 +15,15 @@ Motorsports 🏎️ &nbsp;  | Badminton 🏸 | &nbsp; Cricket 🏏 | &nbsp; Biki
   | Covoid is a platformer game that teaches players the importance of PPE, and staying away from viruses to protect your health in a challenging yet fun way! 
   🏆 **Won 1st place prize from Ekal Appathon and $500 Amazon gift card.**|
   
+  | [ArdDeck](https://github.com/TheSpaceDragon/ArdDeck) |
+  | :---   |
+  |The purpose of ArdDeck is to act as an easy way to lauch user-determined apps and shortcuts with a touch of a button on an Arduino.|
     
   | [Boredom Relief](https://github.com/RaghavVerma24/Boredom-App) |
   | :---   |
   | A website that provides a place where people can get access to random funny YouTube videos and games to help relieve stress caused by the pandemic.|
   
-  | [Alarm for any door](https://github.com/TheSpaceDragon/alarm_for_any_door) |
-  | :---   |
-  | An Arduino project that can gaurd and alarm by being placed on top of any door handle.|
+
 
 
 ## 💻 Languages and Technologies
