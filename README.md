@@ -1,7 +1,6 @@
 # 👋 Hi there! Welcome to my Github page!
 
 - 🌱 I’m currently learning C++
-- <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width=20 align=center> Connect with me on <a href="https://www.linkedin.com/in/gagan-deep-singh-9021/">Linkedin</a>!
 
 - 😄 Pronouns: He/Him
 
