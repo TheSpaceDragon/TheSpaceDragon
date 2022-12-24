@@ -1,6 +1,6 @@
 # 👋 Hi there! Welcome to my Github page!
 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Node.Js
 
 - 😄 Pronouns: He/Him
 
